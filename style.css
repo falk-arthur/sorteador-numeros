@@ -150,3 +150,9 @@ button:disabled {
         font-size: 46px;
     }
 }
+
+@media (max-width: 576px) {
+    .container{
+        width: 100%;
+    }
+}
